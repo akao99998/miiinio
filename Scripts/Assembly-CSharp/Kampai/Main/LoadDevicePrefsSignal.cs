@@ -1,0 +1,8 @@
+using strange.extensions.signal.impl;
+
+namespace Kampai.Main
+{
+	public class LoadDevicePrefsSignal : Signal
+	{
+	}
+}
